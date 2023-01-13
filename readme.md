@@ -16,10 +16,6 @@
       <br/>
         <p align="center">
           <a href="https://github.com/Farias-sys/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farias-sys&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
-        </p>
-        <p align="center">
-          <a href="https://github.com/Farias-sys/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Farias-sys&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Farias-sys&theme=gruvbox&hide_border=true" />
           </a>
@@ -28,12 +24,6 @@
   </div>    
 </details>
 
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Fariasys Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Farias-sys&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
 
 ------
 Credit: 1999azzar

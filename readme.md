@@ -15,7 +15,7 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <div>
+          <div style="display:block;">
             <a href="https://github.com/Farias-sys/">
               <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Farias-sys&theme=gruvbox&hide_border=true" />
             </a>

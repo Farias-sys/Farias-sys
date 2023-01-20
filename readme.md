@@ -18,6 +18,9 @@
           <a href="https://github.com/Farias-sys/">
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Farias-sys&theme=gruvbox&hide_border=true" />
           </a>
+          <a href="https://github.com/Gurupreet">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farias-sys&theme=dracula&hide_langs_below=1" />
+          </a>
        </p>
      <br>
   </div>    

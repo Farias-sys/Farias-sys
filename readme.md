@@ -5,7 +5,7 @@
 
 Just a little about me:
 - 🎓 Computer Science student;
-- 👨‍💻 2+ year experience in software development;
+- 👨‍💻 3+ year experience in software development;
 - ☘ 2022 Seeds for the Future participant;
 - 🎲 I'm always learning!
 
